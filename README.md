@@ -48,4 +48,4 @@ The sample records are illustrative, not real spending records. Delete `expenses
 - Build a web interface using Spring Boot
 
 ## Author
-Add your name and GitHub profile link here before publishing.
+Aman Jakhmola https://github.com/Aman0Jakhmola
